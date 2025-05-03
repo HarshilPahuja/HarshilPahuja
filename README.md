@@ -10,4 +10,4 @@ Feel free to check out my projects (I'm yet to upload many) or reach out—I'm a
 
 > _“Live. Don't just stay Alive.”_
 
-You can check my not-uploaded projects over here — [https://replit.com/@HarshilPahuja](https://replit.com/@HarshilPahuja)
+You can check out my not-uploaded projects over here — [https://replit.com/@HarshilPahuja](https://replit.com/@HarshilPahuja)
