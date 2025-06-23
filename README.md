@@ -1,4 +1,5 @@
-# Hi there! I'm Harshil — a Python dev and an almost web dev.
+# Hi there! I'm Harshil —
+A Python dev and an almost web dev.
 
 
  I'm an undergrad Computer Science student, and I love to build up cool things
