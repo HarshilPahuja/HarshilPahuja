@@ -1,6 +1,6 @@
 # Hi there, I'm Harshil 👋
 
-🎓 I'm an undergrad Computer Science student, and I love to build up cool things
+ I'm an undergrad Computer Science student, and I love to build up cool things
 
 ---
 
