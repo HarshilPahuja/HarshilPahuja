@@ -16,6 +16,11 @@ You can check out my not-uploaded projects over here — [https://replit.com/@Ha
 
 
 
+
+
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt="Catppuccin Footer">
 </p>
