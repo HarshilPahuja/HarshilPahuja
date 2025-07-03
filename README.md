@@ -10,6 +10,9 @@ Feel free to check out my projects (I'm yet to upload many) or reach out—I'm a
 
 ---
 
-> _“Live. Don't just stay Alive.”_
+
 
 You can check out my not-uploaded projects over here — [https://replit.com/@HarshilPahuja](https://replit.com/@HarshilPahuja)
+
+![Catppuccin Footer](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
+
