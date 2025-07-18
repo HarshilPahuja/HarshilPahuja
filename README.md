@@ -2,7 +2,7 @@
 
 
 
- I'm an undergrad Computer Science student, and I love to build up cool things
+ I'm an undergrad Computer Science student, and I try to build up cool things
 
 ---
 
