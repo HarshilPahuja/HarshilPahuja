@@ -22,3 +22,5 @@ You can check out my not-uploaded projects over here — [https://replit.com/@Ha
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt="Catppuccin Footer">
 </p>
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshilPahuja&show_icons=true)
