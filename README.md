@@ -23,4 +23,3 @@ You can check out my not-uploaded projects over here — [https://replit.com/@Ha
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshilPahuja&show_icons=true)
