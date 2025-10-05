@@ -6,7 +6,7 @@
 
 ---
 
-Feel free to check out my projects (I'm yet to upload many) or reach out—I'm always up for collaborating, or building out cool ideas!
+Feel free to check out my projects (I'm yet to upload some) or reach out—I'm always up for collaborating, or building out cool ideas!
 
 
 
