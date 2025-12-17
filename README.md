@@ -5,12 +5,13 @@
  I'm an undergrad Computer Science student, and I try to build up cool things
 
 ---
+I try to build things I’d actually use myself, or that are genuinely useful to others.
 
 Feel free to check out my projects (I'm yet to upload some) or reach out—I'm always up for collaborating, or building out cool ideas!
 
 
 
-You can check out my not-uploaded projects over here — [https://replit.com/@HarshilPahuja](https://replit.com/@HarshilPahuja)
+You can check out my not-uploaded insanely cool python projects over here — [https://replit.com/@HarshilPahuja](https://replit.com/@HarshilPahuja)
 
 
 <br><br>
